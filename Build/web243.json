@@ -1,0 +1,13 @@
+{
+"companyName": "SKGames",
+"productName": "StudyApp",
+"dataUrl": "web243.data.unityweb",
+"wasmCodeUrl": "web243.wasm.code.unityweb",
+"wasmFrameworkUrl": "web243.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#e6e6fa",
+"cacheControl": {"default": "must-revalidate"}
+}
