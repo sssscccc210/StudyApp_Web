@@ -1,0 +1,32 @@
+/*----------------------------------------------------------------------------
+Unity-webgl
+----------------------------------------------------------------------------*/
+#unity-webgl{
+	/* 16:9 */
+	width: 640px ;/*デフォルトの横幅*/
+	height: 360px ;/*デフォルトの縦幅*/
+}
+@media screen and (max-width: 1240px){/*1240px以下*/
+	#unity-webgl{
+		width: 640px ;
+		height: 360px ;
+	}
+}
+@media screen and (max-width: 1023px){/*1023px以下*/
+	#unity-webgl{
+		width: 640px ;
+		height: 3600px ;
+	}
+}
+@media screen and (max-width: 834px){/*834px以下*/
+	#unity-webgl{
+		width: 480px ;
+		height: 270px ;
+	}
+}
+@media screen and (max-width: 480px){/*480px以下*/
+	#unity-webgl{
+		width: 400px ;
+		height: 225px ;
+	}
+}
